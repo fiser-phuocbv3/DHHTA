@@ -1,0 +1,49 @@
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\DHHTA.exe.config
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\DHHTA.exe
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\DHHTA.pdb
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.csprojResolveAssemblyReference.cache
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.Form1.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.Properties.Resources.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.csproj.GenerateResource.Cache
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.exe
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.pdb
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.PopupForm.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.ColorInput.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.Form2.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\AForge.dll
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\AForge.Imaging.dll
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\AForge.Math.dll
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\DockingToolbar.dll
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\SourceGrid2.dll
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\SourceLibrary.dll
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\WeifenLuo.WinFormsUI.dll
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.BrightnessForm.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\IPLab.GridArray.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\IPLab.GridEventArgs.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\IPLab.HistogramEventArgs.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\IPLab.HuePicker.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.ColorSlider.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.FilterPreview.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.ContrastForm.resources
+E:\Hoc ky 20152\Do hoa va hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.SaturationForm.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\DHHTA.exe.config
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.exe
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.pdb
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\DHHTA.exe
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\bin\Debug\DHHTA.pdb
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.csprojResolveAssemblyReference.cache
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.SaturationForm.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.ContrastForm.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.BrightnessForm.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.ColorInput.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.ColorSlider.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.FilterPreview.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\IPLab.GridArray.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\IPLab.GridEventArgs.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\IPLab.HistogramEventArgs.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\IPLab.HuePicker.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.Form1.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.Form2.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.PopupForm.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.Properties.Resources.resources
+E:\Hocki20152\Do hoa hien thuc ao\Project\DHHTA\DHHTA\obj\Debug\DHHTA.csproj.GenerateResource.Cache
