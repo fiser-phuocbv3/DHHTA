@@ -604,5 +604,40 @@ namespace DHHTA
                 }
             }
         }
+
+        private void homogenityToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            saveStatus();
+            image = (Bitmap)bitmap.Clone();
+            filter(new HomogenityEdgeDetector());
+        }
+
+        private void differenceToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            saveStatus();
+            image = (Bitmap)bitmap.Clone();
+            filter(new DifferenceEdgeDetector());
+        }
+
+        private void sobelToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            saveStatus();
+            image = (Bitmap)bitmap.Clone();
+            filter(new SobelEdgeDetector());
+        }
+
+        private void cannyToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            saveStatus();
+            image = (Bitmap)bitmap.Clone();
+            filter(new CannyEdgeDetector());
+        }
+
+        private void toolStripMenuItem8_Click(object sender, EventArgs e)
+        {
+            saveStatus();
+            image = (Bitmap)bitmap.Clone();
+            filter(new Median());
+        }
     }
 }
